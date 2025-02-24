@@ -1,3 +1,6 @@
+## GITHUB LINK
+https://github.com/deepvishkr/YOU_TUBE
+
 ## MERN YouTube Clone
 
 This is a full-stack YouTube clone built using the MERN (MongoDB, Express, React, Node.js) stack. Users can view and interact with videos, like, comment, and upload content. This project will help you understand how to build a real-world application using MongoDB, Express, React, and Node.js.
