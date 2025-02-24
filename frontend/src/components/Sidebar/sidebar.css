@@ -1,0 +1,46 @@
+.sideNavbarHide{
+    display: none;
+}
+
+
+.sideNavbar{
+    display: flex;
+    flex-direction:  column;
+    flex: 0.16 1;
+    box-sizing: border-box;
+    height: 92vh;
+    overflow-y: auto;
+    position: fixed;
+    top: 55px;
+    left: 0px;
+    width: 275px;
+    padding: 14px;
+    background-color: black;
+    color: white;
+}
+
+.sideNavbarTop{
+    display: flex;
+    flex-direction: column;
+    border-bottom: 1px solid rgb(86,85,85);
+    padding-bottom: 10px;
+    
+}
+
+.sideNavbarOptionTitle{
+    gap: 20px;
+    padding: 9px 10px;
+    border-radius: 15px;
+    cursor: pointer;
+    color: white;
+    &:hover{
+        background-color: rgb(35,35,35);
+    }
+}
+
+.sideNavbarMiddle{
+    display: flex;
+    flex-direction: column;
+    border-bottom: 1px solid rgb(86,85,85);
+    padding: 10px 0;
+}
